@@ -1,0 +1,28 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wool Turtleneck"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phenome Vuh"
+      }
+    ],
+    "description": "The world's most valuable and coolest monkey.",
+    "image": "ipfs://Qmer7gvdZHzSQWpU6beyiuTwhEpnEMd5WTBThcf9h65tru",
+    "name": "Bored Ape"
+  }
+  
